@@ -1,8 +1,8 @@
-# Livestock360
+# IC8363
 An AI-Powered comprehensive livestock management and disease detection platform
 
 ## Overview
-Livestock360 is a multi-platform application designed to revolutionize livestock care through AI-powered disease detection, veterinary services management, and comprehensive farm management tools.
+AgroLink is a multi-platform application designed to revolutionize livestock care through AI-powered disease detection, veterinary services management, and comprehensive farm management tools.
 
 ## Features
 - 🤖 **AI-Powered Disease Detection**: Advanced symptom checking and diagnosis
