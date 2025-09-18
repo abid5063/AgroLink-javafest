@@ -1,4 +1,4 @@
-# IC8363
+# AgroLink
 An AI-Powered comprehensive livestock management and disease detection platform
 
 ## Overview
