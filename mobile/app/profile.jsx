@@ -2066,10 +2066,10 @@ const styles = StyleSheet.create({
   },
   // Sell Products Styles
   sellProductsCard: {
-    backgroundColor: "#FF6B35",
+    backgroundColor: "#1b9c0fff",
   },
   manageOrdersCard: {
-    backgroundColor: "#9C27B0",
+    backgroundColor: "#0c7e41ff",
   },
   toggleContainer: {
     flexDirection: "row",
